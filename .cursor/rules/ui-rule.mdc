@@ -1,0 +1,85 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# 🎧 Fuzzler – Futuristic Music Player UI Instructions for Cursor AI
+
+## 🌌 Goal
+Design a **futuristic, fluid music player** that feels alive, modern, and immersive. Inspired by the attached screenshot and the following vision:
+
+## ✨ Vibe & Styling
+- **Dark theme** with subtle **glassmorphism** and **dynamic gradients**.
+- Smooth, **liquid ripple effects** on interaction (buttons, album covers).
+- **3D tilts** and **depth layering** for interactive UI.
+- Animations should be:
+  - *Organic* (fluid-like motion)
+  - *Responsive* (hover/tap states should feel "alive")
+  - *Tactile* (volume & seek sliders feel intuitive and silky-smooth)
+
+---
+
+## 🖼️ Main UI Elements
+
+### 1. **Home Screen**
+- **Central Carousel** of featured albums/playlists:
+  - Albums are arranged with **3D depth** and rotate slightly as user scrolls.
+  - **Scroll = swipeable**, like a conveyor with a liquid drag effect.
+- **Text**: High contrast (light text on dark backgrounds).
+
+### 2. **Album Cover Interaction**
+- On **hover/tap**:
+  - Enlarge slightly.
+  - Add **3D tilt** and **subtle glow**.
+  - Trigger **liquid ripple animation** behind the cover.
+
+### 3. **Now Playing**
+- Album art becomes a **spinning vinyl record** when music plays.
+- Controls below use **glassmorphic cards** with soft blur & rounded corners.
+- Progress bar is a **waveform animation**.
+- Background gradients adapt to **album art colors** (dynamic theming).
+
+---
+
+## 🎛️ Playback Controls
+- Position: **Bottom center or floating above the vinyl**
+- Buttons:
+  - Play / Pause → triggers **liquid ripple + bounce**
+  - Next / Prev → **soft swipe with fading ripple**
+  - Volume / Seek → show a **soft glowing gradient trail** on drag.
+
+---
+
+## 💿 Transitions & Animations
+
+### Transitions Between Songs
+- Swipe → ripple effect, fading out old album art, fading in new.
+- **Vinyl drop** animation to play → record slowly lowers and starts spinning.
+- **Ambient color shift** based on album art.
+
+---
+
+## 🔮 UX Highlights
+- Everything should feel tactile, responsive, and satisfying.
+- **Vinyl nostalgia** meets **space-age interaction**.
+- Gesture support:
+  - Swipe left/right for song change.
+  - Tap-hold to preview track details.
+- Custom cursor: subtle glow or trail (optional).
+
+---
+
+## 🧠 AI Instructions
+- Treat this app as a blend of:
+  - Apple Music fluidity
+  - Spotify personalization
+  - Retro vinyl nostalgia
+  - Liquid, glassy animations
+
+---
+
+## 💡 Inspirations
+- Glassmorphism UI kits
+- Liquid button animations on Codepen
+- macOS Big Sur blur effects
+- Neon gradients from synthwave design
